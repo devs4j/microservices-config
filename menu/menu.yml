@@ -1,0 +1,1 @@
+spring.datasource.url: jdbc:sqlserver://devs4j-microservices.database.windows.net:1433;database=menu;user=todopoderoso@devs4j-microservices;password=h0l41234!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
